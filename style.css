@@ -9,7 +9,7 @@ body {
 
 h1 {
 	color: #555;
-	font-size: 3em;
+	font-size: 2em;
 }
 
 p {
@@ -20,6 +20,12 @@ p {
 	margin: 1em auto;
 	font-size: 1.8em;
 	line-height: 1.3;
+}
+
+p.body {
+	border: 4px dotted: black;
+	padding: 2em;
+	font-family: Times;
 }
 
 img.logo {
